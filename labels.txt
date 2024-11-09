@@ -1,0 +1,10 @@
+0 Gorriones 
+1 Palomas
+2 Aguilas
+3 Buho
+4 Pingüino
+5 Flamenco
+6 Gaviota
+7 Pato
+8 Tucan
+9 Picozapato
